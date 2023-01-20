@@ -10,10 +10,26 @@
 <a href="https://twitter.com/adarshk2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adarshk2001" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/adarsh-kumar-99175a200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarsh kumar" height="30" width="40" /></a>
 </p>
+
+## 🚀 Languages and Tools:
+<p align="left"> 
+    <a href="https://docs.microsoft.com/en-us/cpp/cpp/?view=msvc-160/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png"  width="40" height="40"/> </a>
+    <a href="https://docs.microsoft.com/en-us/cpp/c-language/?view=msvc-160/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="40" height="40"/> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>
+</p>
+
+
 <!-- 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarshkumar167&show_icons=true&locale=en" alt="adarshkumar167" /></p> -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adarshkumar167&show_icons=true&locale=en&layout=compact" alt="adarshkumar167" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshkumar167&" alt="adarshkumar167" /></p>
-
